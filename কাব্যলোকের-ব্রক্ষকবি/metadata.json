@@ -1,6 +1,0 @@
-{
-  "name": "কাব্যলোকের ব্রক্ষকবি",
-  "description": "কাব্যলোকের ব্রক্ষকবি - কবি ও শব্দের আসর (Bengali poetry and note-writing app)",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
